@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43005" started-at="2018-05-13T14:15:57Z" finished-at="2018-05-13T14:16:40Z">
+    <groups>
+      <group name="testput">
+        <method signature="TestLives_put.modifyOnelives()[pri:0, instance:com.testInterface.TestLives_put@2667f029]" name="modifyOnelives" class="com.testInterface.TestLives_put"/>
+      </group> <!-- testput -->
+    </groups>
+    <test name="Default test" duration-ms="43005" started-at="2018-05-13T14:15:57Z" finished-at="2018-05-13T14:16:40Z">
+      <class name="com.testInterface.TestLives_put">
+        <test-method status="PASS" signature="modifyOnelives()[pri:0, instance:com.testInterface.TestLives_put@2667f029]" name="modifyOnelives" duration-ms="42901" started-at="2018-05-13T22:15:57Z" finished-at="2018-05-13T22:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyOnelives -->
+      </class> <!-- com.testInterface.TestLives_put -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
